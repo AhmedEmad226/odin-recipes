@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+.text-yellow{
+  color: rgb(192, 192, 114);
+}
+
+.text-green{
+  color: green;
+}
+
+.text-orange{
+  color: orange;
+}
